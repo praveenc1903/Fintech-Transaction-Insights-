@@ -41,6 +41,16 @@ The goal of this project is to:
 
 ---
 
+## 🖥️ App Preview
+
+### 📊 Dashboard Overview
+![PhonePe Dashboard](page_view_1.png)
+
+### 📈 Analytics & Insights View
+![PhonePe Analytics](page_view_2.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category | Technology |
@@ -76,7 +86,6 @@ Each table supports:
 - `years`
 - `quarter`
 - Metric-specific columns (amounts, counts, users, etc.)
-
 ---
 
 ## 🔐 Secure Database Connection
